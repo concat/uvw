@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://54.82.241.53/uvw';
+$config['base_url'] = 'http://www.rstephenbeck.club/uvw';
 /*
 |--------------------------------------------------------------------------
 | Index File
